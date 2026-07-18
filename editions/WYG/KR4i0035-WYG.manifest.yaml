@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4i0035_000-WYG.yaml, hash: 'sha256:1723bafef654a96a289ca93dc3767d120a6b6d8eddb8789538a03519478ef072'}
   - {seq: 1, filename: KR4i0035_001-WYG.yaml, hash: 'sha256:f89e93eb2704808494258fca49b2124aea4ccab7e3c65616563f24fa9b4ae9f2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0035_000-WYG.markers.yaml, hash: 'sha256:6abd5b34bee05341b7145f83a3ea43153ce6b2e294d03c02345e9db27c190ea2'}
-  - {seq: 1, role: markers, filename: assets/KR4i0035_001-WYG.markers.yaml, hash: 'sha256:6a92c27e27f5fee89884b19d1ff3d9d331414a0fec91df77e590d77ae43b84c0'}
+  - {seq: 0, role: markers, filename: assets/KR4i0035_000-WYG.markers.yaml, hash: 'sha256:0b2cdbdcd6c065c32d845bc7b94124adfebc051969b3a80690454cf1fb2c6514'}
+  - {seq: 1, role: markers, filename: assets/KR4i0035_001-WYG.markers.yaml, hash: 'sha256:1497d7429791eb33cf8cf43419892023d8a07885460e9fd088b8a1fe3de7d56e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 滄浪詩話
   type: section
   level: 1
-hash: sha256:f0dfacfaf4d420503f77cc5aaad030c9e5ef3c04cd58aaff2b506b28a973a8f1
+hash: sha256:2ab33e05e67f3733161216e78ea9ba6ae91bf5c6d5a9b81ce9a4ad6ef5d4823e

@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4i0035_000.yaml, hash: 'sha256:77b16f87ef275b6a146fdbf3de439bf328cd950c579ce6cd2bc04d6966c96082'}
   - {seq: 1, filename: KR4i0035_001.yaml, hash: 'sha256:dd2e51add4654c98be30758d8a92153ca9500786316b914b61276bafb8436c23'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0035_000.markers.yaml, hash: 'sha256:cd2bfa06f9274585b3913e7672ad927cb2b0a53f382980e8366992e677765471'}
-  - {seq: 1, role: markers, filename: assets/KR4i0035_001.markers.yaml, hash: 'sha256:ea695c77808eaf2bac3ae999a8d82826ab498d5b6ee1e44e062232663ccfd82d'}
+  - {seq: 0, role: markers, filename: assets/KR4i0035_000.markers.yaml, hash: 'sha256:862b90a6393ea8482889d54311a833936bcd57094ffd5ed60a0db9a1fd36b974'}
+  - {seq: 1, role: markers, filename: assets/KR4i0035_001.markers.yaml, hash: 'sha256:ce50d406665ae9ebcd77e2a37116ccab3984dfa7f9691fec462dfe104227fd7a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 滄浪詩話
   type: section
   level: 1
-hash: sha256:3fec923138584b3c9952e36152f8a1d06f417f7448204c46163ff5cbae513c76
+hash: sha256:7eb19ed358e00b543187388ab37a291895611030fbdf6b6309fbb893b6f5ed8b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
